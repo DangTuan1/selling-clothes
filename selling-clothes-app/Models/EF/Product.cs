@@ -23,6 +23,8 @@ namespace selling_clothes_app.Models.EF
         public DateTime CreatedDate { get; set; }
         public DateTime ModifiedDate { get; set; }
         public int CategoryId { get; set; }
+        
+
 
         public virtual Category Category { get; set; }
         public virtual ICollection<ProductCategoryMapping> ProductCategoryMapping { get; set; }

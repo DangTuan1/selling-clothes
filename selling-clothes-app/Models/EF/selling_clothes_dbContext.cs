@@ -20,8 +20,10 @@ namespace selling_clothes_app.Models.EF
         }
 
         public virtual DbSet<Category> Category { get; set; }
+        public virtual DbSet<Customer> Customer { get; set; }
         public virtual DbSet<Product> Product { get; set; }
         public virtual DbSet<ProductCategoryMapping> ProductCategoryMapping { get; set; }
+
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {

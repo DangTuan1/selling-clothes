@@ -1,3 +1,4 @@
+C:\Users\Administrator\source\repos\selling-clothes-app\selling-clothes-app\obj\Debug\selling-clothes-app.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\source\repos\selling-clothes-app\selling-clothes-app\bin\selling-clothes-app.dll.config
 C:\Users\Administrator\source\repos\selling-clothes-app\selling-clothes-app\bin\selling-clothes-app.dll
 C:\Users\Administrator\source\repos\selling-clothes-app\selling-clothes-app\bin\selling-clothes-app.pdb
@@ -94,6 +95,8 @@ C:\Users\Administrator\source\repos\selling-clothes-app\selling-clothes-app\bin\
 C:\Users\Administrator\source\repos\selling-clothes-app\selling-clothes-app\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\Administrator\source\repos\selling-clothes-app\selling-clothes-app\bin\Newtonsoft.Json.dll
 C:\Users\Administrator\source\repos\selling-clothes-app\selling-clothes-app\bin\Owin.dll
+C:\Users\Administrator\source\repos\selling-clothes-app\selling-clothes-app\bin\PagedList.dll
+C:\Users\Administrator\source\repos\selling-clothes-app\selling-clothes-app\bin\PagedList.Mvc.dll
 C:\Users\Administrator\source\repos\selling-clothes-app\selling-clothes-app\bin\System.Buffers.dll
 C:\Users\Administrator\source\repos\selling-clothes-app\selling-clothes-app\bin\System.Collections.Immutable.dll
 C:\Users\Administrator\source\repos\selling-clothes-app\selling-clothes-app\bin\System.ComponentModel.Annotations.dll
@@ -137,6 +140,8 @@ C:\Users\Administrator\source\repos\selling-clothes-app\selling-clothes-app\bin\
 C:\Users\Administrator\source\repos\selling-clothes-app\selling-clothes-app\bin\Microsoft.IdentityModel.Protocols.xml
 C:\Users\Administrator\source\repos\selling-clothes-app\selling-clothes-app\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
 C:\Users\Administrator\source\repos\selling-clothes-app\selling-clothes-app\bin\Microsoft.IdentityModel.Tokens.xml
+C:\Users\Administrator\source\repos\selling-clothes-app\selling-clothes-app\bin\PagedList.xml
+C:\Users\Administrator\source\repos\selling-clothes-app\selling-clothes-app\bin\PagedList.Mvc.xml
 C:\Users\Administrator\source\repos\selling-clothes-app\selling-clothes-app\bin\System.Buffers.xml
 C:\Users\Administrator\source\repos\selling-clothes-app\selling-clothes-app\bin\System.Collections.Immutable.xml
 C:\Users\Administrator\source\repos\selling-clothes-app\selling-clothes-app\bin\System.Diagnostics.DiagnosticSource.xml
@@ -180,11 +185,6 @@ C:\Users\Administrator\source\repos\selling-clothes-app\selling-clothes-app\bin\
 C:\Users\Administrator\source\repos\selling-clothes-app\selling-clothes-app\bin\zh-Hans\Microsoft.Data.SqlClient.resources.dll
 C:\Users\Administrator\source\repos\selling-clothes-app\selling-clothes-app\bin\zh-Hant\Microsoft.Data.SqlClient.resources.dll
 C:\Users\Administrator\source\repos\selling-clothes-app\selling-clothes-app\obj\Debug\selling-clothes-app.csproj.AssemblyReference.cache
-C:\Users\Administrator\source\repos\selling-clothes-app\selling-clothes-app\obj\Debug\selling-clothes-app.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\source\repos\selling-clothes-app\selling-clothes-app\obj\Debug\selling-clothes-app.csproj.CopyComplete
 C:\Users\Administrator\source\repos\selling-clothes-app\selling-clothes-app\obj\Debug\selling-clothes-app.dll
 C:\Users\Administrator\source\repos\selling-clothes-app\selling-clothes-app\obj\Debug\selling-clothes-app.pdb
-C:\Users\Administrator\source\repos\selling-clothes-app\selling-clothes-app\bin\PagedList.dll
-C:\Users\Administrator\source\repos\selling-clothes-app\selling-clothes-app\bin\PagedList.Mvc.dll
-C:\Users\Administrator\source\repos\selling-clothes-app\selling-clothes-app\bin\PagedList.xml
-C:\Users\Administrator\source\repos\selling-clothes-app\selling-clothes-app\bin\PagedList.Mvc.xml

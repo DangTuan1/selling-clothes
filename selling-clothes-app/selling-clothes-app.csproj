@@ -286,6 +286,7 @@
     <Compile Include="App_Start\Startup.Auth.cs" />
     <Compile Include="Areas\admin\adminAreaRegistration.cs" />
     <Compile Include="Areas\admin\Controllers\CategoryController.cs" />
+    <Compile Include="Areas\admin\Controllers\CustomerController.cs" />
     <Compile Include="Areas\admin\Controllers\HomeController.cs" />
     <Compile Include="Areas\admin\Controllers\ProductController.cs" />
     <Compile Include="Areas\admin\Data\ToolClass.cs" />
@@ -295,8 +296,18 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\20230908072422_init.cs" />
+    <Compile Include="Migrations\20230908072422_init.designer.cs">
+      <DependentUpon>20230908072422_init.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\20230908081222_addCustomer.cs" />
+    <Compile Include="Migrations\20230908081222_addCustomer.designer.cs">
+      <DependentUpon>20230908081222_addCustomer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Migrations\selling_clothes_dbContextModelSnapshot.cs" />
     <Compile Include="Models\AccountViewModels.cs" />
     <Compile Include="Models\EF\Category.cs" />
+    <Compile Include="Models\EF\Customer.cs" />
     <Compile Include="Models\EF\Product.cs" />
     <Compile Include="Models\EF\ProductCategoryMapping.cs" />
     <Compile Include="Models\EF\selling_clothes_dbContext.cs" />
@@ -2298,6 +2309,7 @@
     <Content Include="Areas\admin\Views\Shared\_PartialSidebar.cshtml" />
     <Content Include="Areas\admin\Views\web.config" />
     <Content Include="Areas\admin\Views\_ViewStart.cshtml" />
+    <Content Include="Areas\admin\Views\Customer\Index.cshtml" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
     <Content Include="Scripts\jquery-3.4.1.js" />
     <Content Include="Scripts\jquery-3.4.1.min.js" />
@@ -2346,7 +2358,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
-    <Folder Include="Migrations\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff2" />
